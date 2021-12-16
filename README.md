@@ -1,5 +1,7 @@
 # toc
 
+## introduction
+
 Program `toc` scans your markdown directory and automatically
 generates `SUMMARY.md`, you can use it in this way:
 
@@ -47,3 +49,7 @@ bookhidden: true
 
 
 Hope `toc` could ease your hand!
+
+## installation
+
+Just run `go get -u github.com/hitzhangjie/toc`.
